@@ -1,0 +1,38 @@
+ALGORITMOS DE ORDENAÇÃO
+Insert sort
+select sort
+bubble sort
+shell sort
+quick sort
+merge sort
+heap sort
+===================================================
+INSERT SORT
+Também conhecido como INSERTION SORT é um algoritmo simples.
+Basicalmente ele percorre um vetor da esquerda para a direita, conforme avança, vai alinhando os valores da sua esquerda.
+--------------
+SELECT SORT
+Conhecido também como selection sort, é um algorítmo de ordenação básico, onde sempre o menor valor será passado para o
+início do vetor (primeira posição).
+--------------
+BUBBLE SORT
+Também conhecido como:
+-Ordenação Bolha;
+-Método Bolha;
+-Ordenação por troca.
+Funcionamento independente da liguagem
+A lógica de funcionamento é necessaria
+O algoritmo varre o conjunto de dados do início ao fim, comparando os dados de dois em dois efetuando a troca, se for necessário.
+--------------
+MERGE SORT
+O algorítmo de ordenação por intercalação, ou, merge sort, usufrui da estratégia de dividir para conquistar.
+O merge sort realiza divisão pela metade até formar grupos de 2 para ir arrumando por dupla.
+--------------
+Quick Sort
+O algorítmo de ordenação rápida, ou Quick Sort, também usufrui da estratégia de dividir para conquistar como o seu irmão
+Merge Sort.
+O quick sort é talvez o algorítmo de ordenação mais famoso e mais utlizado.
+O funcionamento do Quick Sort baseia-se em uma rotina fundamental cujo nome é particionamento. Particionar significa escolher 
+um número qualquer presente no array, chamado de pivot, e colocá-lo em uma posição tal que todos os elementos à esquerda são 
+menores ou iguais e todos os elementos à direita são maiores.
+-------------
